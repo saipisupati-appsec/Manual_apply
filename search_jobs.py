@@ -263,51 +263,60 @@ def _location_ok(row: dict[str, Any]) -> bool:
     Reject jobs whose country_iso or location clearly points to other regions
     (US, Brazil, India, etc.) even if marked remote.
     """
+    loc = first_value(row, "location", "region").lower()
+    iso = first_value(row, "country_iso").upper().strip()
 
-    results: list[dict[str, Any]] = []
+    non_target_names = [
+        "united states", "usa", "u.s.", "u.s.a", "brazil", "são paulo", "sao paulo",
+        "india", "bangalore", "bengaluru", "hyderabad", "china", "japan",
+        "australia", "sydney", "melbourne", "singapore", "mexico",
+        "argentina", "americas", "latin america", "south america",
+        "san francisco", "new york", "seattle", "austin", "boston",
+        "los angeles", "chicago", "denver", "atlanta", "miami",
+        "us remote", "remote us", "remote (us", "remote - us",
+    ]
+    us_state_patterns = [
+        ", ca", " ca,", "california", ", ny", " ny,", ", wa", " wa,",
+        ", tx", " tx,", ", ma", ", co", ", il", ", fl", ", ga",
+        ", nj", ", va", ", nc", ", or", ", ut",
+    ]
 
-    print("Starting job search...")
+    # Hard rejects from location text first (before trusting ISO)
+    if any(n in loc for n in non_target_names):
+        return False
+    if any(p in loc for p in us_state_patterns):
+        return False
 
-    for keyword in JOB_KEYWORDS:
-        print(f"Searching: {keyword}")
+    non_target_iso = {
+        "US", "USA", "BR", "IN", "CN", "JP", "AU", "NZ", "MX", "AR",
+        "CL", "CO", "SG", "HK", "TW", "KR", "PH", "ID", "MY", "TH",
+        "AE", "SA", "IL", "ZA", "NG", "KE", "EG", "RU", "UA",
+    }
+    if iso and iso in non_target_iso:
+        return False
 
-        try:
-            jobs = search(
-                query=keyword,
-                limit=100,
-            )
+    # Explicit ISO match for target countries (after US-state disambiguation)
+    if iso and iso in TARGET_COUNTRY_ISO:
+        return True
 
-            if jobs:
-                results.extend(jobs)
+    # Location text contains a target country name
+    if any(c in loc for c in TARGET_COUNTRIES):
+        return True
 
-        except Exception as exc:
-            print(f"Search failed for '{keyword}': {exc}")
+    # Accept remote-only when location is generically remote / worldwide / europe
+    if any(term in loc for term in REMOTE_TERMS + ["anywhere", "worldwide", "global", "europe"]):
+        return True
 
-    print(f"Raw results collected: {len(results)}")
+    # is_remote flag alone only if location is empty or pure remote
+    if row.get("is_remote") is True and (not loc or loc in ("remote", "fully remote", "remote-first")):
+        return True
 
-    return results
+    return False
 
 
-# ============================================================
-# Filtering
-# ============================================================
-
-def is_recent(
-    job: dict[str, Any],
-    cutoff: datetime,
-) -> bool:
-
-    posted = first_value(
-        job,
-        "posted_at",
-        "date_posted",
-        "posted_date",
-        "created_at",
-    )
-
-    posted_dt = parse_date(posted)
-
-    if posted_dt is None:
+def _is_recent(posted: Any, cutoff: datetime) -> bool:
+    dt = parse_date(posted)
+    if dt is None:
         return False
     return dt >= cutoff
 
