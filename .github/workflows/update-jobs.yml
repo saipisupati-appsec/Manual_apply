@@ -9,16 +9,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-jobs
+  cancel-in-progress: true
+
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -36,7 +40,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add jobs_latest.xlsx README.txt
+          git add jobs_latest.xlsx
 
           if git diff --cached --quiet; then
             echo "No changes to commit."

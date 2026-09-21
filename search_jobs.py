@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any
 
 from ats_scrapers import search
-from openpyxl import Workbook
+from openpyxl import Workbook, load_workbook
 from openpyxl.formatting.rule import FormulaRule
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.worksheet.datavalidation import DataValidation
@@ -228,7 +228,9 @@ def parse_date(value: Any) -> datetime | None:
 
     for fmt in formats:
         try:
-            return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
+            return datetime.strptime(raw, fmt).replace(
+                tzinfo=timezone.utc
+            )
         except ValueError:
             continue
 
@@ -274,7 +276,11 @@ def search_jobs() -> list[dict[str, Any]]:
 # Filtering
 # ============================================================
 
-def is_recent(job: dict[str, Any], cutoff: datetime) -> bool:
+def is_recent(
+    job: dict[str, Any],
+    cutoff: datetime,
+) -> bool:
+
     posted = first_value(
         job,
         "posted_at",
@@ -292,6 +298,7 @@ def is_recent(job: dict[str, Any], cutoff: datetime) -> bool:
 
 
 def is_target_location(job: dict[str, Any]) -> bool:
+
     location = first_value(
         job,
         "location",
@@ -309,24 +316,35 @@ def is_target_location(job: dict[str, Any]) -> bool:
 
     combined = f"{location} {description}"
 
-    if any(country in location for country in TARGET_COUNTRIES):
+    if any(
+        country in location
+        for country in TARGET_COUNTRIES
+    ):
         return True
 
-    if any(term in location for term in REMOTE_TERMS):
+    if any(
+        term in location
+        for term in REMOTE_TERMS
+    ):
         return True
 
-    # Allow explicit remote roles when the posting doesn't expose
-    # a country in the structured location field.
-    if any(term in combined for term in REMOTE_TERMS):
+    if any(
+        term in combined
+        for term in REMOTE_TERMS
+    ):
         return True
 
     return False
 
 
 def is_relevant_title(title: str) -> bool:
+
     title_lower = title.lower()
 
-    if any(term in title_lower for term in EXCLUDE_TITLE_TERMS):
+    if any(
+        term in title_lower
+        for term in EXCLUDE_TITLE_TERMS
+    ):
         return False
 
     return any(
@@ -374,7 +392,9 @@ def filter_jobs(
 # Visa detection
 # ============================================================
 
-def detect_visa_status(job: dict[str, Any]) -> str:
+def detect_visa_status(
+    job: dict[str, Any],
+) -> str:
 
     description = first_value(
         job,
@@ -391,10 +411,16 @@ def detect_visa_status(job: dict[str, Any]) -> str:
 
     combined = f"{description} {location}"
 
-    if any(term in combined for term in VISA_NEGATIVE_TERMS):
+    if any(
+        term in combined
+        for term in VISA_NEGATIVE_TERMS
+    ):
         return "No"
 
-    if any(term in combined for term in VISA_POSITIVE_TERMS):
+    if any(
+        term in combined
+        for term in VISA_POSITIVE_TERMS
+    ):
         return "Yes / Mentioned"
 
     return "Not mentioned"
@@ -404,7 +430,9 @@ def detect_visa_status(job: dict[str, Any]) -> str:
 # Normalization
 # ============================================================
 
-def normalize_job(job: dict[str, Any]) -> Job:
+def normalize_job(
+    job: dict[str, Any],
+) -> Job:
 
     title = first_value(
         job,
@@ -480,7 +508,11 @@ def normalize_job(job: dict[str, Any]) -> Job:
         country=country or "Not specified",
         remote=remote,
         visa=detect_visa_status(job),
-        salary=first_value(job, "salary", "salary_text"),
+        salary=first_value(
+            job,
+            "salary",
+            "salary_text",
+        ),
         experience=first_value(
             job,
             "experience",
@@ -501,9 +533,14 @@ def normalize_job(job: dict[str, Any]) -> Job:
 # Deduplication
 # ============================================================
 
-def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
+def deduplicate_jobs(
+    jobs: list[Job],
+) -> list[Job]:
 
-    unique: dict[tuple[str, str, str], Job] = {}
+    unique: dict[
+        tuple[str, str, str],
+        Job,
+    ] = {}
 
     for job in jobs:
 
@@ -518,16 +555,141 @@ def deduplicate_jobs(jobs: list[Job]) -> list[Job]:
 
     result = list(unique.values())
 
-    print(f"After deduplication: {len(result)}")
+    print(
+        f"After deduplication: {len(result)}"
+    )
 
     return result
+
+
+# ============================================================
+# Preserve existing statuses
+# ============================================================
+
+def load_existing_statuses() -> dict[
+    tuple[str, str, str],
+    str,
+]:
+    """
+    Read the previous jobs_latest.xlsx and preserve the
+    user's Status values for jobs that are still present.
+    """
+
+    statuses: dict[
+        tuple[str, str, str],
+        str,
+    ] = {}
+
+    if not OUTPUT_FILE.exists():
+        print(
+            "No existing workbook found. "
+            "All jobs will start as New."
+        )
+        return statuses
+
+    try:
+
+        workbook = load_workbook(
+            OUTPUT_FILE,
+            read_only=True,
+            data_only=True,
+        )
+
+        if "Latest Jobs" not in workbook.sheetnames:
+            workbook.close()
+            return statuses
+
+        sheet = workbook["Latest Jobs"]
+
+        headers = {
+            cell.value: cell.column
+            for cell in sheet[1]
+        }
+
+        company_col = headers.get("Company")
+        title_col = headers.get("Job Title")
+        location_col = headers.get("Location")
+        status_col = headers.get("Status")
+
+        if not all(
+            [
+                company_col,
+                title_col,
+                location_col,
+                status_col,
+            ]
+        ):
+            workbook.close()
+            return statuses
+
+        for row in sheet.iter_rows(
+            min_row=2,
+            values_only=True,
+        ):
+
+            company = str(
+                row[company_col - 1] or ""
+            ).strip().lower()
+
+            title = str(
+                row[title_col - 1] or ""
+            ).strip().lower()
+
+            location = str(
+                row[location_col - 1] or ""
+            ).strip().lower()
+
+            status = str(
+                row[status_col - 1] or "New"
+            ).strip()
+
+            if (
+                company
+                and title
+                and location
+                and status
+                in {
+                    "New",
+                    "Opened",
+                    "Applied",
+                    "Skipped",
+                }
+            ):
+                statuses[
+                    (
+                        company,
+                        title,
+                        location,
+                    )
+                ] = status
+
+        workbook.close()
+
+        print(
+            f"Preserved statuses for "
+            f"{len(statuses)} existing jobs."
+        )
+
+    except Exception as exc:
+
+        print(
+            f"Could not read existing status values: {exc}"
+        )
+
+    return statuses
 
 
 # ============================================================
 # Excel generation
 # ============================================================
 
-def create_workbook(jobs: list[Job]) -> None:
+def create_workbook(
+    jobs: list[Job],
+    existing_statuses: dict[
+        tuple[str, str, str],
+        str,
+    ],
+) -> None:
 
     workbook = Workbook()
 
@@ -554,7 +716,9 @@ def create_workbook(jobs: list[Job]) -> None:
 
     # Header formatting
     for cell in sheet[1]:
+
         cell.font = Font(bold=True)
+
         cell.alignment = Alignment(
             horizontal="center",
             vertical="center",
@@ -562,6 +726,17 @@ def create_workbook(jobs: list[Job]) -> None:
 
     # Job rows
     for job in jobs:
+
+        status_key = (
+            job.company.strip().lower(),
+            job.title.strip().lower(),
+            job.location.strip().lower(),
+        )
+
+        previous_status = existing_statuses.get(
+            status_key,
+            "New",
+        )
 
         row = [
             job.posted_date,
@@ -575,7 +750,7 @@ def create_workbook(jobs: list[Job]) -> None:
             job.experience,
             job.ats,
             job.apply_url,
-            "New",
+            previous_status,
             job.description,
         ]
 
@@ -584,10 +759,15 @@ def create_workbook(jobs: list[Job]) -> None:
         row_number = sheet.max_row
 
         # Clickable Apply link
-        apply_cell = sheet.cell(row=row_number, column=11)
+        apply_cell = sheet.cell(
+            row=row_number,
+            column=11,
+        )
 
         if job.apply_url:
+
             apply_cell.hyperlink = job.apply_url
+
             apply_cell.font = Font(
                 color="0563C1",
                 underline="single",
@@ -600,7 +780,9 @@ def create_workbook(jobs: list[Job]) -> None:
         allow_blank=False,
     )
 
-    sheet.add_data_validation(status_validation)
+    sheet.add_data_validation(
+        status_validation
+    )
 
     status_validation.add(
         f"L2:L{max(sheet.max_row, 2)}"
@@ -627,7 +809,9 @@ def create_workbook(jobs: list[Job]) -> None:
         fgColor="E7E6E6",
     )
 
-    data_range = f"A2:M{max(sheet.max_row, 2)}"
+    data_range = (
+        f"A2:M{max(sheet.max_row, 2)}"
+    )
 
     sheet.conditional_formatting.add(
         data_range,
@@ -682,10 +866,14 @@ def create_workbook(jobs: list[Job]) -> None:
     }
 
     for column, width in widths.items():
-        sheet.column_dimensions[column].width = width
+        sheet.column_dimensions[
+            column
+        ].width = width
 
     for row in sheet.iter_rows():
+
         for cell in row:
+
             cell.alignment = Alignment(
                 vertical="top",
                 wrap_text=True,
@@ -694,7 +882,9 @@ def create_workbook(jobs: list[Job]) -> None:
     sheet.row_dimensions[1].height = 25
 
     # README sheet
-    readme = workbook.create_sheet("README")
+    readme = workbook.create_sheet(
+        "README"
+    )
 
     readme_lines = [
         "Manual Job Search Tool",
@@ -724,15 +914,21 @@ def create_workbook(jobs: list[Job]) -> None:
         "Not mentioned does NOT mean sponsorship is unavailable.",
         "",
         "The workbook is regenerated automatically by GitHub Actions.",
+        "Existing Status values are preserved when the same job appears in the next refresh.",
     ]
 
     for line in readme_lines:
+
         readme.append([line])
 
-    readme.column_dimensions["A"].width = 110
+    readme.column_dimensions[
+        "A"
+    ].width = 110
 
     for row in readme.iter_rows():
+
         for cell in row:
+
             cell.alignment = Alignment(
                 vertical="top",
                 wrap_text=True,
@@ -740,7 +936,9 @@ def create_workbook(jobs: list[Job]) -> None:
 
     workbook.save(OUTPUT_FILE)
 
-    print(f"Created: {OUTPUT_FILE}")
+    print(
+        f"Created: {OUTPUT_FILE}"
+    )
 
 
 # ============================================================
@@ -751,7 +949,9 @@ def main() -> None:
 
     now = datetime.now(timezone.utc)
 
-    cutoff = now - timedelta(days=DAYS_TO_KEEP)
+    cutoff = now - timedelta(
+        days=DAYS_TO_KEEP
+    )
 
     raw_jobs = search_jobs()
 
@@ -765,18 +965,33 @@ def main() -> None:
         for job in filtered_jobs
     ]
 
-    jobs = deduplicate_jobs(normalized_jobs)
+    jobs = deduplicate_jobs(
+        normalized_jobs
+    )
 
     # Sort newest first
     jobs.sort(
-        key=lambda job: parse_date(job.posted_date)
-        or datetime.min.replace(tzinfo=timezone.utc),
+        key=lambda job:
+        parse_date(job.posted_date)
+        or datetime.min.replace(
+            tzinfo=timezone.utc
+        ),
         reverse=True,
     )
 
-    create_workbook(jobs)
+    # Preserve existing user statuses
+    existing_statuses = (
+        load_existing_statuses()
+    )
 
-    print("Job search completed successfully.")
+    create_workbook(
+        jobs,
+        existing_statuses,
+    )
+
+    print(
+        "Job search completed successfully."
+    )
 
 
 if __name__ == "__main__":
