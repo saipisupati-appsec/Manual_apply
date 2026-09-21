@@ -258,7 +258,7 @@ def search_jobs() -> list[dict[str, Any]]:
         try:
             jobs = search(
                 query=keyword,
-                limit=1000,
+                limit=100,
             )
 
             if jobs:
