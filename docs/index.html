@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Manual Apply — Security Jobs</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <h1>Manual Apply</h1>
+      <p class="subtitle">Security jobs · last 7 days · apply yourself</p>
+    </div>
+  </header>
+
+  <main class="main">
+    <section class="controls">
+      <div class="tabs" role="tablist">
+        <button type="button" class="tab active" data-tab="new" role="tab" aria-selected="true">New</button>
+        <button type="button" class="tab" data-tab="applied" role="tab" aria-selected="false">Applied</button>
+      </div>
+
+      <div class="filters" role="group" aria-label="Location filters">
+        <button type="button" class="filter active" data-filter="all">All</button>
+        <button type="button" class="filter" data-filter="netherlands">Netherlands</button>
+        <button type="button" class="filter" data-filter="uk">UK</button>
+        <button type="button" class="filter" data-filter="europe">Europe</button>
+        <button type="button" class="filter" data-filter="remote">Remote</button>
+        <button type="button" class="filter" data-filter="visa">Visa Mentioned</button>
+      </div>
+
+      <p class="meta" id="meta">Loading…</p>
+    </section>
+
+    <section class="job-list" id="job-list" aria-live="polite"></section>
+  </main>
+
+  <footer class="footer">
+    <p>Data from <code>jobs_latest.json</code> · Applied state stored only in your browser (localStorage)</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
