@@ -3,41 +3,39 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Manual Apply — Security Jobs</title>
+  <title>Manual Apply · Security Jobs</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="header">
-    <div class="header-inner">
+  <div class="bg"></div>
+  <header>
+    <div class="brand">
       <h1>Manual Apply</h1>
-      <p class="subtitle">Security jobs · last 7 days · apply yourself</p>
+      <p class="tagline">Security Jobs · Europe · UK · Remote</p>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-tab="new" type="button">New</button>
+      <button class="tab" data-tab="applied" type="button">Applied</button>
     </div>
   </header>
 
-  <main class="main">
-    <section class="controls">
-      <div class="tabs" role="tablist">
-        <button type="button" class="tab active" data-tab="new" role="tab" aria-selected="true">New</button>
-        <button type="button" class="tab" data-tab="applied" role="tab" aria-selected="false">Applied</button>
-      </div>
+  <nav class="filters" aria-label="Filters">
+    <button class="filter active" data-filter="all" type="button">All</button>
+    <button class="filter" data-filter="netherlands" type="button">Netherlands</button>
+    <button class="filter" data-filter="uk" type="button">UK</button>
+    <button class="filter" data-filter="europe" type="button">Europe</button>
+    <button class="filter" data-filter="remote" type="button">Remote</button>
+    <button class="filter" data-filter="visa" type="button">Visa Mentioned</button>
+  </nav>
 
-      <div class="filters" role="group" aria-label="Location filters">
-        <button type="button" class="filter active" data-filter="all">All</button>
-        <button type="button" class="filter" data-filter="netherlands">Netherlands</button>
-        <button type="button" class="filter" data-filter="uk">UK</button>
-        <button type="button" class="filter" data-filter="europe">Europe</button>
-        <button type="button" class="filter" data-filter="remote">Remote</button>
-        <button type="button" class="filter" data-filter="visa">Visa Mentioned</button>
-      </div>
-
-      <p class="meta" id="meta">Loading…</p>
-    </section>
-
-    <section class="job-list" id="job-list" aria-live="polite"></section>
+  <main>
+    <p class="meta" id="meta">Loading…</p>
+    <div id="jobs" class="jobs"></div>
+    <p class="empty hidden" id="empty">No jobs match this view.</p>
   </main>
 
-  <footer class="footer">
-    <p>Data from <code>jobs_latest.json</code> · Applied state stored only in your browser (localStorage)</p>
+  <footer>
+    <p>No descriptions · APPLY opens the original posting · MARK APPLIED saves in this browser only</p>
   </footer>
 
   <script src="app.js"></script>
