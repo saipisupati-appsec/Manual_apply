@@ -1,5 +1,75 @@
 [
   {
+    "title": "Principal Senior Security Engineer",
+    "company": "Vay",
+    "location": "Berlin, Germany",
+    "country": "DE",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-27",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/sfofxp/jobs/principal-security-engineer_berlin_wb4c6krx"
+  },
+  {
+    "title": "Security Engineer (Application Security, United Kingdom)",
+    "company": "Writer",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-27",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/JQFgUR/jobs/security-engineer-application-security-united-kingdom_london_7es43w56"
+  },
+  {
+    "title": "Security Engineer (Detection and Response, UK)",
+    "company": "Writer",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-27",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/JQFgUR/jobs/security-engineer-detection-and-response-uk_london_amlujl76"
+  },
+  {
+    "title": "Cybersecurity Engineer – DevSecOps",
+    "company": "millgroupinc",
+    "location": "US-Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-26",
+    "apply_url": "https://careers-millgroupinc.icims.com/jobs/3134/cybersecurity-engineer-%e2%80%93-devsecops/job?in_iframe=1"
+  },
+  {
+    "title": "Lead Product Security",
+    "company": "jobgether",
+    "location": "Canada",
+    "country": "CA",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-26",
+    "apply_url": "https://jobs.lever.co/jobgether/1224eff1-84a1-4596-a5c4-d3b32ee6b337/apply"
+  },
+  {
+    "title": "Senior Security Engineer, DeFi",
+    "company": "jobgether",
+    "location": "Canada",
+    "country": "CA",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-26",
+    "apply_url": "https://jobs.lever.co/jobgether/3f37047e-006c-48e3-be11-eaf77eec3c5f/apply"
+  },
+  {
+    "title": "Senior Product Security Engineer",
+    "company": "jobgether",
+    "location": "Canada",
+    "country": "CA",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-26",
+    "apply_url": "https://jobs.lever.co/jobgether/e6fb5f62-ae96-43aa-99b1-93d94bb3df82/apply"
+  },
+  {
     "title": "Principal Product Security Engineer",
     "company": "Recruitee",
     "location": "Amsterdam, Netherlands",
@@ -88,16 +158,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-25",
     "apply_url": "https://jobs.smartrecruiters.com/Sportradar/744000151864689-lead-devsecops-security-engineer?oga=true"
-  },
-  {
-    "title": "Cybersecurity Engineer – DevSecOps",
-    "company": "millgroupinc",
-    "location": "US-Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-25",
-    "apply_url": "https://careers-millgroupinc.icims.com/jobs/3134/cybersecurity-engineer-%e2%80%93-devsecops/job?in_iframe=1"
   },
   {
     "title": "Cloud Security Engineer",
@@ -270,11 +330,11 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/kRuADP/jobs/senior-cloud-security-engineer-gcp_gb_gah3asq7"
   },
   {
-    "title": "Senior DevSecOps Engineer",
+    "title": "DevSecOps Lead",
     "company": "Hiya",
     "location": "London, United Kingdom",
     "country": "GB",
-    "remote": "Yes",
+    "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-09-25",
     "apply_url": "https://www.welcometothejungle.com/en/companies/fDmut1/jobs/senior-devsecops-engineer_london_ta6eyifq"
@@ -480,16 +540,6 @@
     "apply_url": "https://jobs.smartrecruiters.com/Devoteam/744000151665739-senior-cybersecurity-engineer?oga=true"
   },
   {
-    "title": "Lead Security Engineer (m/w/d)",
-    "company": "Recare Deutschland GmbH",
-    "location": "Remote job",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-24",
-    "apply_url": "https://careers.recaresolutions.com/o/lead-security-engineer-mwd/c/new"
-  },
-  {
     "title": "Product Security & Network Manager (m/w/d)",
     "company": "wabtec",
     "location": "St. Marienkirchen, Upper Austria, at",
@@ -518,16 +568,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-24",
     "apply_url": "https://jobs.ashbyhq.com/thought-machine/04cb6076-8265-44d3-9aa6-5f8a2d4e371e/application"
-  },
-  {
-    "title": "IT Operations and security engineer - Linux/Swift",
-    "company": "Sword Technologies N.V./S.A.",
-    "location": "Brussels, Brussels, Belgium",
-    "country": "BE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-24",
-    "apply_url": "https://swordtechnologies.recruitee.com/o/it-operations-and-security-engineer-linuxswift/c/new"
   },
   {
     "title": "Technical Program Manager, Application Security",
@@ -640,16 +680,6 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/ZB4iFN/jobs/security-engineer_amsterdam_gacdzzgq"
   },
   {
-    "title": "Senior Cloud Security Engineer",
-    "company": "shorepointinc",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-24",
-    "apply_url": "https://shorepointinc.bamboohr.com/careers/973"
-  },
-  {
     "title": "Cybersecurity Engineer",
     "company": "CACI",
     "location": "remote (any state)",
@@ -688,16 +718,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-24",
     "apply_url": "https://careers.mastercard.com/job/R-291205"
-  },
-  {
-    "title": "Product Analyst - Product Security",
-    "company": "jobs.msd.com",
-    "location": "Prague, Central Bohemian, Czechia",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-24",
-    "apply_url": "https://jobs.msd.com/job/R419138"
   },
   {
     "title": "Senior Security Engineer (Remote, EU/CET)",
@@ -788,16 +808,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-23",
     "apply_url": "https://jobs.smartrecruiters.com/Ramboll3/744000151363065-ot-security-engineer?oga=true"
-  },
-  {
-    "title": "GERMAN SPEAKING SECURITY ENGINEER",
-    "company": "LITIT",
-    "location": "Remote job",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-23",
-    "apply_url": "https://litit.recruitee.com/o/german-speaking-security-engineer/c/new"
   },
   {
     "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-term contract)",
@@ -1348,185 +1358,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-21",
     "apply_url": "https://centreon.recruitee.com/o/senior-security-engineer/c/new"
-  },
-  {
-    "title": "Operational Technology (OT) Cyber Security Architect",
-    "company": "paconsulting",
-    "location": "London, gb",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000150643559-operational-technology-ot-cyber-security-architect?oga=true"
-  },
-  {
-    "title": "Information Security Architect",
-    "company": "sumup",
-    "location": "Sofia, Bulgaria",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://sumup.com/careers/positions/8644927002?gh_jid=8644927002"
-  },
-  {
-    "title": "Software Delivery Architect (DevSecOps & Generative AI)",
-    "company": "SopraSteria1",
-    "location": "ROMA, ROMA, it",
-    "country": "IT",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150631999-software-delivery-architect-devsecops-generative-ai-?oga=true"
-  },
-  {
-    "title": "DevSecOps Specialist",
-    "company": "SopraSteria1",
-    "location": "Assago, Lombardia, it",
-    "country": "IT",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000150631149-devsecops-specialist?oga=true"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Romania",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/d741059f-e2ac-4f39-bbbf-d3095a424d82/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Italy",
-    "country": "IT",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/62f5704b-4f2d-4ac2-a159-6d52f7099fe1/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Portugal",
-    "country": "PT",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/29eea4d5-af19-47fc-864e-5ae0f6fc63f9/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Netherlands",
-    "country": "NL",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/fa94ae3a-9a4f-42b3-8b65-554dd96b7432/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Ireland",
-    "country": "IE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/0eb1a542-df6a-4a9f-b161-249b82c3074b/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Switzerland",
-    "country": "CH",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/2bb14341-ee3d-46fe-b6f5-656c13a0b64a/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/7b56646c-adc8-47ad-ba77-1eab7b991198/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Spain",
-    "country": "ES",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/491cbc1f-f24e-4dc9-9b88-efc2cf011339/apply"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "UK",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/e0e75c22-c104-469a-a998-d43091c1d647/apply"
-  },
-  {
-    "title": "Architect Cloud Security (w/m/x)",
-    "company": "NTT DATA",
-    "location": "Erfurt, Thuringia, Germany",
-    "country": "DE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/architect-cloud-security-w-m-x_erfurt_ND_PlrW1dL"
-  },
-  {
-    "title": "Protocol Security Researcher",
-    "company": "jobgether",
-    "location": "Germany",
-    "country": "DE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.lever.co/jobgether/fbe30ad2-74bb-496e-8901-e17786952c5d/apply"
-  },
-  {
-    "title": "Oracle Cloud Security Engineer",
-    "company": "brightvisiontechnologies",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/KgpiOylN2w"
-  },
-  {
-    "title": "Senior Technical Security Lead, Security Platforms (VP)",
-    "company": "careers.statestreet.com",
-    "location": "Dublin, Dublin, Ireland",
-    "country": "IE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://careers.statestreet.com/job/R-797593"
-  },
-  {
-    "title": "Cybersecurity Engineering Specialist",
-    "company": "jobs.msd.com",
-    "location": "Bucuresti, Bucuresti, Romania",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-21",
-    "apply_url": "https://jobs.msd.com/job/R395153"
   }
 ]
