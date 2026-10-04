@@ -1,5 +1,205 @@
 [
   {
+    "title": "Infrastructure Security Engineer",
+    "company": "xAI",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-03",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/JBHAzj/jobs/infrastructure-security-engineer_ie_ceqs7o3s"
+  },
+  {
+    "title": "IT Security Engineer",
+    "company": "PASQAL",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-03",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/4uAgeC/jobs/it-security-engineer_gb_3ojbzy3l"
+  },
+  {
+    "title": "Senior Product Security Engineer",
+    "company": "Trainline",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-03",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/3TgGLb/jobs/senior-product-security-engineer_london_n3i4chnd"
+  },
+  {
+    "title": "Senior Application Security Engineer",
+    "company": "turquoise-health",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.ashbyhq.com/turquoise-health/21ccc42d-aa61-47d0-8764-aee7cf6ff7ba/application"
+  },
+  {
+    "title": "Security Engineer",
+    "company": "namespace",
+    "location": "Switzerland",
+    "country": "CH",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.ashbyhq.com/namespace/41599db0-2a55-4d97-bc92-62636eb3c5bd/application"
+  },
+  {
+    "title": "Sr. Manager, Security Engineering",
+    "company": "wizinc",
+    "location": "Remote - United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Yes / Mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://www.wiz.io/careers/job/4671799006/:title?gh_jid=4671799006"
+  },
+  {
+    "title": "Cybersecurity Engineer – DevSecOps",
+    "company": "millgroupinc",
+    "location": "US-Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://careers-millgroupinc.icims.com/jobs/3134/cybersecurity-engineer-%e2%80%93-devsecops/job?in_iframe=1"
+  },
+  {
+    "title": "AI Security Engineer (m/f/n)",
+    "company": "InPost",
+    "location": "Warszawa, Województwo mazowieckie, pl",
+    "country": "PL",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.smartrecruiters.com/InPost/744000153204239-ai-security-engineer-m-f-n-?oga=true"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "Netherlands",
+    "country": "NL",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/8812b7f5-0d7f-4a7a-bc69-2730071a26d8/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "Ireland",
+    "country": "IE",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/564da8a5-89ec-4536-9e5f-c86a99793f3d/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "Switzerland",
+    "country": "CH",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/b52ca408-713f-4d50-b4ee-3fd8b866bd80/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "France",
+    "country": "FR",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/4ba6089c-3318-4188-b146-82ba27cff1fd/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "Spain",
+    "country": "ES",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/c9b6d010-a351-4e24-a51e-3f50effcf13f/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "UK",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/0cb3482e-758e-4af2-8aba-1dff0aae89d3/apply"
+  },
+  {
+    "title": "Staff Security Researcher",
+    "company": "jobgether",
+    "location": "Germany",
+    "country": "DE",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/8770cdc2-d817-4516-89ca-c82aa0889904/apply"
+  },
+  {
+    "title": "Application Security Engineer",
+    "company": "Enjoy Gaming LLC",
+    "location": "Remote job",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://enjoygaming.recruitee.com/o/application-security-engineer/c/new"
+  },
+  {
+    "title": "Senior Azure Security Engineer",
+    "company": "cyberone-security",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://cyberone-security.teamtailor.com/jobs/8491321-senior-azure-security-engineer"
+  },
+  {
+    "title": "Security Engineer (Threat Response), Sophos Security Team (IDR)",
+    "company": "jobgether",
+    "location": "Canada",
+    "country": "CA",
+    "remote": "Yes",
+    "visa": "Yes / Mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.lever.co/jobgether/6627c9a0-ec93-442d-89de-f9d7202f13a5/apply"
+  },
+  {
+    "title": "Security Engineer",
+    "company": "purestorage",
+    "location": "Prague, Czech Republic",
+    "country": "CZ",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8191920"
+  },
+  {
+    "title": "DevSecOps Engineer",
+    "company": "align",
+    "location": "Panama - Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://job-boards.greenhouse.io/align/jobs/8859924002"
+  },
+  {
     "title": "Senior Application Security Engineer (AI)",
     "company": "Ki",
     "location": "London, United Kingdom",
@@ -20,14 +220,44 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-developpeur-devsecops-programme-sous-marin-h-f_ollioules"
   },
   {
-    "title": "Head of Security Engineering",
-    "company": "drivewealth",
-    "location": "AMER-US-Remote",
+    "title": "SAP Security Engineer",
+    "company": "CACI",
+    "location": "remote (any state)",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://caci.eightfold.ai/careers/job/1443153781490"
+  },
+  {
+    "title": "DevSecOps Lead Engineer",
+    "company": "CACI",
+    "location": "remote (any state)",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://caci.eightfold.ai/careers/job/1443153785475"
+  },
+  {
+    "title": "ML Security Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
     "country": "Not specified",
     "remote": "Yes",
     "visa": "No",
-    "posted_date": "2026-10-01",
-    "apply_url": "https://boards.greenhouse.io/drivewealth/jobs/8010998003?gh_jid=8010998003"
+    "posted_date": "2026-10-02",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/5Izo29N73O"
+  },
+  {
+    "title": "Senior Specialist - SAP Authorizations and Security Architect",
+    "company": "jobs.msd.com",
+    "location": "Boxmeer, North Brabant, Netherlands",
+    "country": "NL",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://jobs.msd.com/job/R390393"
   },
   {
     "title": "Senior AI Security Engineer",
@@ -298,16 +528,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-30",
     "apply_url": "https://job-boards.eu.greenhouse.io/cision/jobs/4889283101"
-  },
-  {
-    "title": "Senior Product/Cloud Security Engineer",
-    "company": "jetbrains",
-    "location": "Amsterdam, Netherlands; Berlin, Germany; Munich, Germany; Remote, Germany",
-    "country": "DE",
-    "remote": "Yes",
-    "visa": "Yes / Mentioned",
-    "posted_date": "2026-09-30",
-    "apply_url": "https://job-boards.eu.greenhouse.io/jetbrains/jobs/4986386101"
   },
   {
     "title": "Cloud Security Engineer F/H",
@@ -860,16 +1080,6 @@
     "apply_url": "https://www.emnify-jobs.com/emnify/?gh_jid=4988140101"
   },
   {
-    "title": "Information Security Engineer",
-    "company": "Algolia",
-    "location": "Anywhere in the World",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://weworkremotely.com/remote-jobs/algolia-information-security-engineer"
-  },
-  {
     "title": "(Senior) Consultant (all genders) Cloud & Infrastructure Security",
     "company": "DeloitteAT",
     "location": "Wien, at",
@@ -930,16 +1140,6 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/security-architect_birmingham"
   },
   {
-    "title": "Cybersecurity Engineer",
-    "company": "CACI",
-    "location": "remote (any state)",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://caci.eightfold.ai/careers/job/1443153658946"
-  },
-  {
     "title": "Application Security Engineer",
     "company": "CACI",
     "location": "remote (any state)",
@@ -950,6 +1150,16 @@
     "apply_url": "https://caci.eightfold.ai/careers/job/1443153340166"
   },
   {
+    "title": "Cybersecurity Engineer",
+    "company": "CACI",
+    "location": "remote (any state)",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-09-28",
+    "apply_url": "https://caci.eightfold.ai/careers/job/1443153658946"
+  },
+  {
     "title": "Oracle Cloud Security Engineer",
     "company": "brightvisiontechnologies",
     "location": "Remote",
@@ -958,45 +1168,5 @@
     "visa": "No",
     "posted_date": "2026-09-28",
     "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/1m1EM9LN1T"
-  },
-  {
-    "title": "Senior Product Security Engineer (Embedded / Automotive)",
-    "company": "Vay",
-    "location": "Berlin, Germany",
-    "country": "DE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-27",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/sfofxp/jobs/principal-security-engineer_berlin_wb4c6krx"
-  },
-  {
-    "title": "Security Engineer (Application Security, United Kingdom)",
-    "company": "Writer",
-    "location": "London, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-27",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/JQFgUR/jobs/security-engineer-application-security-united-kingdom_london_7es43w56"
-  },
-  {
-    "title": "Security Engineer (Detection and Response, UK)",
-    "company": "Writer",
-    "location": "London, United Kingdom",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-27",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/JQFgUR/jobs/security-engineer-detection-and-response-uk_london_amlujl76"
-  },
-  {
-    "title": "Cybersecurity Engineer – DevSecOps",
-    "company": "millgroupinc",
-    "location": "US-Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-26",
-    "apply_url": "https://careers-millgroupinc.icims.com/jobs/3134/cybersecurity-engineer-%e2%80%93-devsecops/job?in_iframe=1"
   }
 ]
