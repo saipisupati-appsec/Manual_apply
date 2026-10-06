@@ -1,5 +1,25 @@
 [
   {
+    "title": "CDI – Ingénieur Infrastructure DevSecOps Data Platform – H/F",
+    "company": "Naval Group [FR]",
+    "location": "Brest, Brittany, France",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-05",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-ingenieur-infrastructure-devsecops-data-platform-h-f_brest"
+  },
+  {
+    "title": "Product Owner DevSecOps H/F",
+    "company": "Crédit Mutuel Arkéa",
+    "location": "Bordeaux, Nouvelle-Aquitaine, France",
+    "country": "FR",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-04",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/zDakzV3/jobs/product-owner-devsecops-h-f_bordeaux"
+  },
+  {
     "title": "Senior Security Engineer (Data Platform)",
     "company": "Deutsche Bank",
     "location": "Berlin, Germany",
@@ -260,16 +280,6 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-developpeur-devsecops-programme-sous-marin-h-f_ollioules"
   },
   {
-    "title": "SAP Security Engineer",
-    "company": "CACI",
-    "location": "remote (any state)",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-02",
-    "apply_url": "https://caci.eightfold.ai/careers/job/1443153781490"
-  },
-  {
     "title": "DevSecOps Lead Engineer",
     "company": "CACI",
     "location": "remote (any state)",
@@ -278,6 +288,16 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-02",
     "apply_url": "https://caci.eightfold.ai/careers/job/1443153785475"
+  },
+  {
+    "title": "SAP Security Engineer",
+    "company": "CACI",
+    "location": "remote (any state)",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-02",
+    "apply_url": "https://caci.eightfold.ai/careers/job/1443153781490"
   },
   {
     "title": "ML Security Engineer",
@@ -478,6 +498,16 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-01",
     "apply_url": "https://www.welcometothejungle.com/en/companies/JNjyxB/jobs/senior-application-security-engineer_lisbonne_qikdpj4z"
+  },
+  {
+    "title": "IT Systems & Security Engineer - London (Westminster)",
+    "company": "Centre for Information Resilience",
+    "location": "London, England, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-01",
+    "apply_url": "https://apply.workable.com/j/53829801C1/apply"
   },
   {
     "title": "Information Systems Security Engineer (ISSE)",
@@ -768,305 +798,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-09-29",
     "apply_url": "https://jobs.smartrecruiters.com/Netcompany1/744000152447554-purple-security-engineer?oga=true"
-  },
-  {
-    "title": "Senior Security Engineer,Detection & Incident Response",
-    "company": "purestorage",
-    "location": "Prague, Czech Republic",
-    "country": "CZ",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://job-boards.greenhouse.io/purestorage/jobs/8225837"
-  },
-  {
-    "title": "Senior Product Security Architect",
-    "company": "axonius",
-    "location": "UK, Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8007963003"
-  },
-  {
-    "title": "Senior Product Security Architect",
-    "company": "axonius",
-    "location": "Portugal, Remote",
-    "country": "PT",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8007962003"
-  },
-  {
-    "title": "Security Architect",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/709d9e9c-cc09-4f6f-9339-05a288bf5794/application"
-  },
-  {
-    "title": "Mobile App Security Engineer",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/6be2788d-92ce-4e29-b1fc-ad58fc488917/application"
-  },
-  {
-    "title": "Data Privacy Security Engineer",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/4e7b3e1f-4f8a-49f5-b89a-5bc70ed7576b/application"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/543e1620-c9d5-453b-8103-2ddc17e93bc7/application"
-  },
-  {
-    "title": "Cloud Infrastructure Security Engineer",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf/application"
-  },
-  {
-    "title": "Application Security Engineer AppSec",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/b25dfd2e-b875-4a5a-8c33-77e522cb0d2f/application"
-  },
-  {
-    "title": "AI Security Engineer",
-    "company": "bjakcareer",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/60def69d-14bc-44e9-af57-2f87fb3a827e/application"
-  },
-  {
-    "title": "Senior Software Engineer, Application Security",
-    "company": "Discord",
-    "location": "Anywhere in the World",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Yes / Mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-application-security"
-  },
-  {
-    "title": "Offensive Security Engineer (Red Team)",
-    "company": "jobgether",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.lever.co/jobgether/90a33ab2-9fb2-4a33-a247-18d421e36ee5/apply"
-  },
-  {
-    "title": "Principal Security Architect",
-    "company": "jobgether",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.lever.co/jobgether/8d63aedc-5fcc-49f7-b836-395e40e10f1d/apply"
-  },
-  {
-    "title": "Technical Project Manager - Security Engineering",
-    "company": "sig",
-    "location": "Dublin, UNAVAILABLE, IE",
-    "country": "IE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://careers-sig.icims.com/jobs/11567/technical-project-manager---security-engineering/job?in_iframe=1"
-  },
-  {
-    "title": "Senior Software Engineer - Infrastructure Security",
-    "company": "jobgether",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://jobs.lever.co/jobgether/4708fda8-793e-441e-bde8-f8cc4adac77e/apply"
-  },
-  {
-    "title": "information technology (IT) security architect",
-    "company": "FOP EXPERTS CONSEILS INC.",
-    "location": "Brossard (QC)",
-    "country": "CA",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50391601"
-  },
-  {
-    "title": "AppSec Engineer",
-    "company": "brightvisiontechnologies",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/Nqf4hFJPqa"
-  },
-  {
-    "title": "Artificial Intelligence Security Engineer",
-    "company": "brightvisiontechnologies",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/mL68pofz6c"
-  },
-  {
-    "title": "Senior Security Engineer",
-    "company": "creditsesame",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-29",
-    "apply_url": "https://creditsesame.applytojob.com/apply/jobs/details/wTckD6V60E"
-  },
-  {
-    "title": "Sr Product Security Engineer",
-    "company": "beyondtrust",
-    "location": "Remote Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8231788"
-  },
-  {
-    "title": "Principal Security Architect",
-    "company": "menlosecurity",
-    "location": "Canada - Distributed",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://jobs.ashbyhq.com/menlosecurity/35e73f66-53ed-436f-a5ff-c45177952fae/application"
-  },
-  {
-    "title": "Security Engineer",
-    "company": "oddball",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://job-boards.greenhouse.io/oddball/jobs/8007048003"
-  },
-  {
-    "title": "Infrastructure Security Engineer - London",
-    "company": "xai",
-    "location": "Dublin, Ireland; London, England, United Kingdom",
-    "country": "IE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5241280007"
-  },
-  {
-    "title": "Security Engineer",
-    "company": "patreon",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://jobs.ashbyhq.com/patreon/95a84e99-4405-4cd1-ade4-13c17dc99293/application"
-  },
-  {
-    "title": "Senior Security Engineer - Threat Detection",
-    "company": "samsara",
-    "location": "Remote - Dallas",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://www.samsara.com/company/careers/roles/8237426?gh_jid=8237426"
-  },
-  {
-    "title": "Senior Security Engineer - Enterprise Security",
-    "company": "samsara",
-    "location": "London - UK2; Remote - London",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Yes / Mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://www.samsara.com/company/careers/roles/8223369?gh_jid=8223369"
-  },
-  {
-    "title": "Security Engineer, Detection and Response",
-    "company": "notion",
-    "location": "Dublin, Ireland",
-    "country": "IE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://jobs.ashbyhq.com/notion/fbcaf076-830e-4daf-ad39-1e0e8ce9f89c/application"
-  },
-  {
-    "title": "Data Security Engineer - Junior+",
-    "company": "platacard",
-    "location": "Worldwide",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://plata.careers/vacancy/details?id=5436264008&gh_jid=5436264008"
-  },
-  {
-    "title": "Staff Security Engineer, Detection & Response",
-    "company": "anthropic",
-    "location": "Zürich, CH",
-    "country": "CH",
-    "remote": "No",
-    "visa": "Yes / Mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5432626008"
-  },
-  {
-    "title": "Offensive Security Engineer (Red Team)",
-    "company": "gomotive",
-    "location": "Canada - Remote",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-09-28",
-    "apply_url": "https://job-boards.greenhouse.io/gomotive/jobs/8849916002"
   }
 ]
