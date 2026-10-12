@@ -1,5 +1,15 @@
 [
   {
+    "title": "Senior Cloud Security Engineer",
+    "company": "PlayStation",
+    "location": "Ireland",
+    "country": "IE",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-11",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/6ATZ8j/jobs/senior-cloud-security-engineer_ie_wyorjlhz"
+  },
+  {
     "title": "Senior Systems Engineer (Application Security)",
     "company": "Cloudflare",
     "location": "United Kingdom",
@@ -248,56 +258,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-09",
     "apply_url": "https://jobs.lever.co/jobgether/cb38e957-843b-4779-a76e-09f33f69e769/apply"
-  },
-  {
-    "title": "Security Architect",
-    "company": "NTT DATA",
-    "location": "London, England, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/security-architect_london_ND_Q37bym2"
-  },
-  {
-    "title": "Enterprise Security Architect",
-    "company": "NTT DATA",
-    "location": "London, England, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/enterprise-security-architect_london"
-  },
-  {
-    "title": "Security Architect Consultant",
-    "company": "NTT DATA",
-    "location": "Birmingham, England, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/security-architect_birmingham"
-  },
-  {
-    "title": "Senior AI Security Architect Consultant",
-    "company": "NTT DATA",
-    "location": "London, England, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/ai-security-architect_epworth-house"
-  },
-  {
-    "title": "Security Engineer",
-    "company": "NTT DATA",
-    "location": "Birmingham, England, United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/security-engineer_birmingham"
   },
   {
     "title": "Security Engineer",
@@ -1408,115 +1368,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-05",
     "apply_url": "https://jobs.ashbyhq.com/zeely/ec13f026-11a0-47ab-ae1a-bc700e00b7b6/application"
-  },
-  {
-    "title": "AI Security Engineer",
-    "company": "paconsulting",
-    "location": "Melbourn, gb",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://jobs.smartrecruiters.com/PAConsulting/744000153431824-ai-security-engineer?oga=true"
-  },
-  {
-    "title": "Offensive Security Engineer",
-    "company": "nebius",
-    "location": "Remote - Europe",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://careers.nebius.com/?gh_jid=4982966101"
-  },
-  {
-    "title": "Security Engineer - AppSec",
-    "company": "rain",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://jobs.ashbyhq.com/rain/7e211b55-5069-45b2-8072-c6555a5b53cd/application"
-  },
-  {
-    "title": "CDI – Ingénieur Infrastructure DevSecOps Data Platform – H/F",
-    "company": "Naval Group [FR]",
-    "location": "Brest, Brittany, France",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-ingenieur-infrastructure-devsecops-data-platform-h-f_brest"
-  },
-  {
-    "title": "Senior Cloud Platform Security Engineer",
-    "company": "greenboxcapital",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://greenboxcapital.bamboohr.com/careers/176"
-  },
-  {
-    "title": "Oracle Security Engineer",
-    "company": "brightvisiontechnologies",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/BOWXZ69Ofz"
-  },
-  {
-    "title": "Software Validation & Data Security Engineer (Remote)",
-    "company": "testpros",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://testpros.applytojob.com/apply/jobs/details/67EhvaVNYY"
-  },
-  {
-    "title": "AWS DevSecOps Cloud Consultant",
-    "company": "verticalrelevance",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Yes / Mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://verticalrelevance.applytojob.com/apply/jobs/details/q7E8Vst9N9"
-  },
-  {
-    "title": "Cybersecurity Automation Engineer ,Assistant Vice President",
-    "company": "careers.statestreet.com",
-    "location": "Kilkenny, Kilkenny, Ireland",
-    "country": "IE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://careers.statestreet.com/job/R-796935"
-  },
-  {
-    "title": "Security Engineering Manager - Incident Response, AWS CloudOps",
-    "company": "Amazon",
-    "location": "London, England, GBR",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-05",
-    "apply_url": "https://account.amazon.jobs/jobs/10568807/apply"
-  },
-  {
-    "title": "Product Owner DevSecOps H/F",
-    "company": "Crédit Mutuel Arkéa",
-    "location": "Bordeaux, Nouvelle-Aquitaine, France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-04",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/zDakzV3/jobs/product-owner-devsecops-h-f_bordeaux"
   }
 ]
