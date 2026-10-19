@@ -1,5 +1,15 @@
 [
   {
+    "title": "Security Engineer (Applied Research & Labs)",
+    "company": "Cloudflare",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-18",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/n4VFga/jobs/security-engineer-applied-research-labs_gb_xielyxkb"
+  },
+  {
     "title": "Cloud Security Architect",
     "company": "Ekco",
     "location": "Ireland",
@@ -500,7 +510,7 @@
     "apply_url": "https://jobs.ashbyhq.com/kong/8fb34850-c2c7-48fe-9f95-b8e114977ddc/application"
   },
   {
-    "title": "Principal Product Security Engineer",
+    "title": "Staff Product Security Engineer",
     "company": "tide",
     "location": "United Kingdom",
     "country": "GB",
@@ -1368,35 +1378,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-12",
     "apply_url": "https://job-boards.greenhouse.io/pindropsecurity/jobs/8273637"
-  },
-  {
-    "title": "Application Security Engineer",
-    "company": "Thumbtack",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-12",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/qPgzPx/jobs/application-security-engineer_ca_dneomctc"
-  },
-  {
-    "title": "Oracle Cloud Security Engineer",
-    "company": "brightvisiontechnologies",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-10-12",
-    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/FeRXiY4EM0"
-  },
-  {
-    "title": "2027 Cloud Assurance and Cyber Security-  - Level 4 Cyber Security Engineer Apprenticeship Apprentice",
-    "company": "careers.thalesgroup.com",
-    "location": "Crawley, West Sussex, United Kingdom",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-12",
-    "apply_url": "https://careers.thalesgroup.com/job/R0337751"
   }
 ]
