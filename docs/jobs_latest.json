@@ -1,5 +1,175 @@
 [
   {
+    "title": "Senior Security Engineering Manager",
+    "company": "Ebury",
+    "location": "London, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-30",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/kdRqdS/jobs/senior-security-engineering-manager_london_7vqi6bmq"
+  },
+  {
+    "title": "DevSecOps Engineer",
+    "company": "Motorola Solutions",
+    "location": "Cambridge, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-30",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/3FaMvc/jobs/devsecops-engineer_cambridge_ddmhrwd5"
+  },
+  {
+    "title": "Staff AppSec / Product Security Engineer",
+    "company": "Filigran",
+    "location": "Paris, France",
+    "country": "FR",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-30",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/u5tV3q/jobs/staff-appsec-product-security-engineer_paris_e5wrc7qz"
+  },
+  {
+    "title": "Stage – Stratégie DevSecOps – F/H",
+    "company": "Schneider Electric",
+    "location": "Grenoble, Auvergne-Rhone-Alpes, France",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/WRUVr2/jobs/stage-strategie-devsecops-f-h_grenoble_SE_mwJkj6J"
+  },
+  {
+    "title": "Senior DevOps / DevSecOps Engineer",
+    "company": "capco",
+    "location": "Canada - Toronto",
+    "country": "CA",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://job-boards.greenhouse.io/capco/jobs/8335337"
+  },
+  {
+    "title": "Principal Nuclear Security Engineer",
+    "company": "assystem",
+    "location": "Glasgow, Scotland, gb",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000158570171-principal-nuclear-security-engineer?oga=true"
+  },
+  {
+    "title": "Technical Lead – AppSec (H/F/NB)",
+    "company": "ubisoft2",
+    "location": "Paris, IDF, fr",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158568719-technical-lead-appsec-h-f-nb-?oga=true"
+  },
+  {
+    "title": "Infrastructure Security Architect (m/w/d)",
+    "company": "SopraSteria1",
+    "location": "bundesweit, de",
+    "country": "DE",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158565699-infrastructure-security-architect-m-w-d-?oga=true"
+  },
+  {
+    "title": "Senior DevSecOps Consultant (m/w/d)",
+    "company": "SopraSteria1",
+    "location": "bundesweit, de",
+    "country": "DE",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158565438-senior-devsecops-consultant-m-w-d-?oga=true"
+  },
+  {
+    "title": "Senior Staff Security Engineer",
+    "company": "veeamsoftware",
+    "location": "Warsaw, Poland",
+    "country": "PL",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5020953101"
+  },
+  {
+    "title": "Senior Staff Security Engineer",
+    "company": "veeamsoftware",
+    "location": "Prague, Czechia",
+    "country": "Not specified",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5020931101"
+  },
+  {
+    "title": "Senior Security Engineer – Data Pipeline & Observability - Mid-Atlantic region (Remote)",
+    "company": "guidepointsecurity",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6238251004?gh_jid=6238251004"
+  },
+  {
+    "title": "DevSecOps Manager (m/w/d)",
+    "company": "SopraSteria1",
+    "location": "bundesweit, de",
+    "country": "DE",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000158503489-devsecops-manager-m-w-d-?oga=true"
+  },
+  {
+    "title": "Security Engineer, Product Security team",
+    "company": "deliveryhero",
+    "location": "Berlin, de",
+    "country": "DE",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/DeliveryHero/744000158474354-security-engineer-product-security-team?oga=true"
+  },
+  {
+    "title": "Security Engineer | BPCE-IT",
+    "company": "natixisinportugal",
+    "location": "Porto, Porto, pt",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.smartrecruiters.com/NatixisInPortugal/744000158467290-security-engineer-bpce-it?oga=true"
+  },
+  {
+    "title": "Staff AppSec / Product Security Engineer",
+    "company": "filigran",
+    "location": "France",
+    "country": "FR",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://jobs.ashbyhq.com/filigran/6287db6b-cf82-4b17-bdff-434a060b15fc/application"
+  },
+  {
+    "title": "Security Engineer",
+    "company": "careersus-teleperformance",
+    "location": "US-Remote | US-AZ | US-AR | US-CT | US-DE | US-FL | US-GA | US-ID | US-IL | US-IN | US-IA | ...",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://careersus-teleperformance.icims.com/jobs/91410/security-engineer/job?in_iframe=1"
+  },
+  {
     "title": "CDI – Practice Leader DevSecOps - H/F",
     "company": "Naval Group [FR]",
     "location": "Ollioules, Provence-Alpes-Cote d'Azur, France",
@@ -18,6 +188,56 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-29",
     "apply_url": "https://www.welcometothejungle.com/en/companies/BgS9aG/jobs/chef-de-projet-cybersecurite-devsecops-ia-h-f_nantes"
+  },
+  {
+    "title": "ML Security Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/JRUu2yZvoy"
+  },
+  {
+    "title": "Oracle Cybersecurity Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/ygh0OTzDZW"
+  },
+  {
+    "title": "Software Security Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/N7xD8OZ5kq"
+  },
+  {
+    "title": "macOS Endpoint Security Engineer",
+    "company": "inabia",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://inabia.applytojob.com/apply/jobs/details/oRe1Zl770q"
+  },
+  {
+    "title": "Senior macOS Cyber Security Engineer – Endpoint Security (C++/Swift)",
+    "company": "inabia",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-10-29",
+    "apply_url": "https://inabia.applytojob.com/apply/jobs/details/ZZtgHyuF2e"
   },
   {
     "title": "Ingénieur DevSecOps / Sécurité Applicative",
@@ -350,6 +570,16 @@
     "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/hLb9If2NqB"
   },
   {
+    "title": "Cybersecurity Engineer – Applications",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-28",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/5YbNFIIuS1"
+  },
+  {
     "title": "Cloud Security Engineer - Azure Defender/Prisma Cloud/Cortex Cloud",
     "company": "careers.pnc.com",
     "location": "Remote, Remote, Remote",
@@ -428,16 +658,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-27",
     "apply_url": "https://jobs.smartrecruiters.com/Inetum2/744000158123128-security-engineer?oga=true"
-  },
-  {
-    "title": "Technical Lead – AppSec (H/F/NB)",
-    "company": "ubisoft2",
-    "location": "Paris, IDF, fr",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-27",
-    "apply_url": "https://jobs.smartrecruiters.com/Ubisoft2/744000158112489-technical-lead-appsec-h-f-nb-?oga=true"
   },
   {
     "title": "Product Security Engineer II - IAM",
@@ -548,6 +768,26 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-27",
     "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-ingenieur-e-devsecops-h-f_ollioules"
+  },
+  {
+    "title": "AppSec Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-27",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/4sfwxDJDLD"
+  },
+  {
+    "title": "Artificial Intelligence Security Engineer",
+    "company": "brightvisiontechnologies",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "No",
+    "posted_date": "2026-10-27",
+    "apply_url": "https://brightvisiontechnologies.applytojob.com/apply/jobs/details/suAryL0GZr"
   },
   {
     "title": "Oracle Cloud Security Engineer",
@@ -1048,195 +1288,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-10-24",
     "apply_url": "https://whyhirewrong.teamtailor.com/jobs/8611708-security-engineer"
-  },
-  {
-    "title": "Security Architect (m/w/d)",
-    "company": "careers.dhl.com",
-    "location": "Bonn, Nordrhein-Westfalen, Germany",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-24",
-    "apply_url": "https://careers.dhl.com/job/AV-386149"
-  },
-  {
-    "title": "Network & Security Engineer – OT / Industrial Networks",
-    "company": "electrogrup",
-    "location": "Bucuresti, Bucuresti, Romania",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-24",
-    "apply_url": "https://electrogrup.applytojob.com/apply/jobs/details/LWJJiTCyF7"
-  },
-  {
-    "title": "Network & Security Engineer – OT / Industrial Networks",
-    "company": "electrogrup",
-    "location": "Cluj-Napoca, Cluj-Napoca, Romania",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-24",
-    "apply_url": "https://electrogrup.applytojob.com/apply/jobs/details/iA6z785oQd"
-  },
-  {
-    "title": "Automation / DevSecOps H/F",
-    "company": "NEXTON",
-    "location": "Saint-Etienne, Auvergne-Rhone-Alpes, France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/jzZFL2/jobs/automation-devsecops-h-f_saint-etienne"
-  },
-  {
-    "title": "Red Team Security Engineer",
-    "company": "gomotive",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/gomotive/jobs/8912428002"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "dbeaver",
-    "location": "Budapest, Hungary",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/dbeaver/jobs/5462584008"
-  },
-  {
-    "title": "Security Engineer",
-    "company": "cuspai",
-    "location": "Cambridge, UK",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://jobs.ashbyhq.com/cuspai/ea9bd394-bbfe-4802-bbe0-ac9ebfbe6ef0/application"
-  },
-  {
-    "title": "Sr. Specialist Solutions Architect - Platform Security and Cloud Infrastructure",
-    "company": "databricks",
-    "location": "Paris, France",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910988002"
-  },
-  {
-    "title": "Cloud Security Engineer",
-    "company": "jane",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://jobs.ashbyhq.com/jane/cc34381e-2d4c-469a-a472-7e9d24e83578/application"
-  },
-  {
-    "title": "Offensive Security Engineer, AI",
-    "company": "coinbase",
-    "location": "Remote - Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599"
-  },
-  {
-    "title": "Ingénieur DevSecOps / Automation – GCP (H/F) - Saint Etienne",
-    "company": "Webnet",
-    "location": "Lyon, Auvergne-Rhone-Alpes, France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/1ytO9e/jobs/ingenieur-devsecops-automation-gcp-h-f-saint-etienne_lyon"
-  },
-  {
-    "title": "Cybersecurity Engineer – DevSecOps",
-    "company": "millgroupinc",
-    "location": "US-Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://careers-millgroupinc.icims.com/jobs/3134/cybersecurity-engineer-%e2%80%93-devsecops/job?in_iframe=1"
-  },
-  {
-    "title": "Automation / DevSecOps H/F",
-    "company": "NEXTON",
-    "location": "Saint-Étienne, Auvergne-Rhône-Alpes, fr",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://jobs.smartrecruiters.com/NEXTON/744000157477187-automation-devsecops-h-f?oga=true"
-  },
-  {
-    "title": "Cyber Security Lead - Vulnerability Management",
-    "company": "jobgether",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://jobs.lever.co/jobgether/2f3765d6-60ac-40e4-b98d-a3d687f3a759/apply"
-  },
-  {
-    "title": "Principal Product Security Researcher",
-    "company": "chainguard",
-    "location": "United Kingdom - Remote",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/chainguard/jobs/4723615006"
-  },
-  {
-    "title": "Principal Product Security Researcher",
-    "company": "chainguard",
-    "location": "Canada - Remote",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/chainguard/jobs/4723619006"
-  },
-  {
-    "title": "Principal Product Security Engineer",
-    "company": "chainguard",
-    "location": "United Kingdom - Remote",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/chainguard/jobs/4724290006"
-  },
-  {
-    "title": "Principal Product Security Engineer",
-    "company": "chainguard",
-    "location": "Canada - Remote",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://job-boards.greenhouse.io/chainguard/jobs/4724289006"
-  },
-  {
-    "title": "IT Security Architect (m/w/d)",
-    "company": "careers.dhl.com",
-    "location": "Bonn, Nordrhein-Westfalen, Germany",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-10-23",
-    "apply_url": "https://careers.dhl.com/job/AV-286315"
   }
 ]
