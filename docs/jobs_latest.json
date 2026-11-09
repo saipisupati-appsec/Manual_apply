@@ -170,7 +170,7 @@
     "apply_url": "https://jobs.lever.co/jobgether/bb620ac3-28bf-4981-afe4-0cf0ea1f1d11/apply"
   },
   {
-    "title": "Senior Product Security Engineer",
+    "title": "Senior Security Engineer - Insider Threat",
     "company": "affirm",
     "location": "Remote Canada",
     "country": "CA",
@@ -200,16 +200,6 @@
     "apply_url": "https://www.welcometothejungle.com/en/companies/NYT2LJ/jobs/senior-devsecops-engineer_gb_7gpgzqx6"
   },
   {
-    "title": "Security Engineer –  EDR/ Harfanglab (H/F)",
-    "company": "careers.thalesgroup.com",
-    "location": "Vélizy-Villacoublay, Yvelines, France",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-06",
-    "apply_url": "https://careers.thalesgroup.com/job/R0344345"
-  },
-  {
     "title": "Senior Cybersecurity Architect (Technical Directorate)",
     "company": "careers.thalesgroup.com",
     "location": "Tubize, Belgium",
@@ -218,6 +208,16 @@
     "visa": "Not mentioned",
     "posted_date": "2026-11-06",
     "apply_url": "https://careers.thalesgroup.com/job/R0346400"
+  },
+  {
+    "title": "Security Engineer –  EDR/ Harfanglab (H/F)",
+    "company": "careers.thalesgroup.com",
+    "location": "Vélizy-Villacoublay, Yvelines, France",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-06",
+    "apply_url": "https://careers.thalesgroup.com/job/R0344345"
   },
   {
     "title": "Application Security Engineer, Amazon Application Security",
@@ -1048,125 +1048,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-11-02",
     "apply_url": "https://job-boards.greenhouse.io/zencoder/jobs/5272103007"
-  },
-  {
-    "title": "Senior Software Security Engineer*",
-    "company": "Accso – Accelerated Solutions GmbH",
-    "location": "Frankfurt am Main, Hessen, Deutschland",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://accso.recruitee.com/o/senior-software-security-engineer-5/c/new"
-  },
-  {
-    "title": "Software Security Engineer*",
-    "company": "Accso – Accelerated Solutions GmbH",
-    "location": "Frankfurt am Main, Hessen, Deutschland",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://accso.recruitee.com/o/software-security-engineer-7/c/new"
-  },
-  {
-    "title": "Manager, Security Architecture",
-    "company": "jobgether",
-    "location": "Canada",
-    "country": "CA",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://jobs.lever.co/jobgether/b6bf70e8-98ed-4abc-af0c-1483bfdfc819/apply"
-  },
-  {
-    "title": "IT Security Consultant – Threat Modeling",
-    "company": "optiveumspzoo",
-    "location": "Gdynia, Poland",
-    "country": "PL",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://career.optiveum.com/jobs/8650153-it-security-consultant-threat-modeling"
-  },
-  {
-    "title": "Cloud Security Engineer",
-    "company": "vitol",
-    "location": "Geneva, GE, ch",
-    "country": "CH",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://jobs.smartrecruiters.com/Vitol/744000159103055-cloud-security-engineer-?oga=true"
-  },
-  {
-    "title": "Principal Product Security Engineer",
-    "company": "storiogroup",
-    "location": "London, UK",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://jobs.lever.co/storiogroup/6778c0b4-b2fa-4dd2-8d7d-6e0b1bc98f54/apply"
-  },
-  {
-    "title": "Networks Cyber Security Engineer",
-    "company": "necsws",
-    "location": "Hybrid, Hemel Hempstead, England, gb",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://jobs.smartrecruiters.com/NECSWS/744000159073119-networks-cyber-security-engineer?oga=true"
-  },
-  {
-    "title": "CDI-  DevSecOps Engineer - H/F",
-    "company": "Naval Group [FR]",
-    "location": "Ollioules, Provence-Alpes-Cote d'Azur, France",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-devsecops-engineer-h-f_ollioules"
-  },
-  {
-    "title": "Senior Corporate Security Engineer - IT Security (x/f/m)",
-    "company": "Doctolib",
-    "location": "Levallois-Perret, France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/8GNWxLL/jobs/senior-corporate-security-engineer-it-security-x-f-m_levallois-perret"
-  },
-  {
-    "title": "Platform Security Engineer (x/f/m)",
-    "company": "Doctolib",
-    "location": "Levallois-Perret, France",
-    "country": "FR",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/8GNWxLL/jobs/platform-security-engineer-x-f-m_levallois-perret_DOCTO_7ybj3WL"
-  },
-  {
-    "title": "Cloud Security Engineer",
-    "company": "securserv",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://securserv.applytojob.com/apply/jobs/details/BP3NNciEe4"
-  },
-  {
-    "title": "Ingénieur Logiciel DevSecOps - F/H",
-    "company": "careers.thalesgroup.com",
-    "location": "Toulouse, Haute-Garonne, France",
-    "country": "FR",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-02",
-    "apply_url": "https://careers.thalesgroup.com/job/R0335329"
   }
 ]
