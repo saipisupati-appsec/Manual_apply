@@ -1,13 +1,233 @@
 [
   {
+    "title": "Application Security Engineer",
+    "company": "Veeam Software",
+    "location": "Lisbon, Portugal",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5036697101"
+  },
+  {
+    "title": "Application Security Engineer",
+    "company": "Veeam Software",
+    "location": "Warsaw, Poland",
+    "country": "PL",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5036696101"
+  },
+  {
+    "title": "Application Security Engineer",
+    "company": "Veeam Software",
+    "location": "Prague, Czechia",
+    "country": "Not specified",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5036432101"
+  },
+  {
+    "title": "Devoteam Cyber Trust | IT Security Architect Splunk Linux | Banking Sector",
+    "company": "Devoteam",
+    "location": "Lisboa, pt",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Devoteam/744000161778669-devoteam-cyber-trust-it-security-architect-splunk-linux-banking-sector?oga=true"
+  },
+  {
+    "title": "Cyber Security Engineer",
+    "company": "Inetum",
+    "location": "Lisbon, Lisbon, pt",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Inetum2/744000161775444-cyber-security-engineer-?oga=true"
+  },
+  {
+    "title": "Lead Cyber Security Engineer H/F",
+    "company": "Believe",
+    "location": "Paris, fr",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Believe/744000161774067-lead-cyber-security-engineer-h-f?oga=true"
+  },
+  {
+    "title": "Devoteam Cyber Trust |  Information Security & Vulnerability Management Officer | Banking Sector",
+    "company": "Devoteam",
+    "location": "Lisboa, pt",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Devoteam/744000161773980-devoteam-cyber-trust-information-security-vulnerability-management-officer-banking-sector?oga=true"
+  },
+  {
+    "title": "Devoteam Cyber Trust  | DevSecOps | Banking Sector",
+    "company": "Devoteam",
+    "location": "Lisboa, Lisboa, pt",
+    "country": "PT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Devoteam/744000161768639-devoteam-cyber-trust-devsecops-banking-sector-?oga=true"
+  },
+  {
+    "title": "AI Security Engineer",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/60def69d-14bc-44e9-af57-2f87fb3a827e/application"
+  },
+  {
+    "title": "Application Security Engineer AppSec",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/b25dfd2e-b875-4a5a-8c33-77e522cb0d2f/application"
+  },
+  {
+    "title": "Cloud Infrastructure Security Engineer",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf/application"
+  },
+  {
+    "title": "DevSecOps Engineer",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/543e1620-c9d5-453b-8103-2ddc17e93bc7/application"
+  },
+  {
+    "title": "Data Privacy Security Engineer",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/4e7b3e1f-4f8a-49f5-b89a-5bc70ed7576b/application"
+  },
+  {
+    "title": "Security Architect",
+    "company": "Bjak",
+    "location": "Global",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/709d9e9c-cc09-4f6f-9339-05a288bf5794/application"
+  },
+  {
+    "title": "AI Security Engineer",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/3580b965-4ac0-471e-8378-326a11484022/application"
+  },
+  {
+    "title": "Security Architect",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/e43812db-42ae-41a8-b4a3-0785398da90f/application"
+  },
+  {
+    "title": "Application Security Engineer AppSec",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/6aefcae8-b4ec-40a2-a32b-eba2828632d0/application"
+  },
+  {
+    "title": "Cloud Infrastructure Security Engineer",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/1b83ec79-e65d-4cee-84fe-b5092007ad33/application"
+  },
+  {
+    "title": "DevSecOps Engineer",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/b51045e5-f601-459f-8f84-61a7884556c4/application"
+  },
+  {
+    "title": "Data Privacy Security Engineer",
+    "company": "Bjak",
+    "location": "United Kingdom",
+    "country": "GB",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/005df17b-ba2d-48f1-9728-c9a5cce7986c/application"
+  },
+  {
+    "title": "Senior Security Engineer",
+    "company": "Wise",
+    "location": "London, gb",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://jobs.smartrecruiters.com/Wise/744000161757701-senior-security-engineer?oga=true"
+  },
+  {
+    "title": "CDI - Ingénieur DevSecOps - H/F",
+    "company": "Naval Group [FR]",
+    "location": "Ollioules, Provence-Alpes-Cote d'Azur, France",
+    "country": "FR",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-16",
+    "apply_url": "https://www.welcometothejungle.com/en/companies/jj6huE/jobs/cdi-ingenieur-devsecops-h-f_ollioules_NGF_m8k9R6A"
+  },
+  {
     "title": "Stage - Intégrateur de Solutions – DEVOPS / DEVSECOPS F/H",
     "company": "Orange",
     "location": "LANNION, UN SPECIFIED, FRANCE",
     "country": "FR",
     "remote": "No",
     "visa": "Not mentioned",
-    "posted_date": "2026-11-15",
-    "apply_url": "https://orange.jobs/job/CTS-2026-55428"
+    "posted_date": "2026-11-16",
+    "apply_url": "https://orange.jobs/gb/en/job/CTS-2026-55428"
   },
   {
     "title": "Security Engineer",
@@ -16,8 +236,8 @@
     "country": "Not specified",
     "remote": "No",
     "visa": "Not mentioned",
-    "posted_date": "2026-11-15",
-    "apply_url": "https://orange.jobs/job/ERC-596174-20136094"
+    "posted_date": "2026-11-16",
+    "apply_url": "https://orange.jobs/gb/en/job/ERC-596174-20136094"
   },
   {
     "title": "Junior DevSecOps Consultant (all genders)",
@@ -26,8 +246,8 @@
     "country": "DE",
     "remote": "No",
     "visa": "Not mentioned",
-    "posted_date": "2026-11-15",
-    "apply_url": "https://orange.jobs/job/TMT-8235391"
+    "posted_date": "2026-11-16",
+    "apply_url": "https://orange.jobs/gb/en/job/TMT-8235391"
   },
   {
     "title": "Senior IT Security Architect",
@@ -36,8 +256,8 @@
     "country": "SE",
     "remote": "No",
     "visa": "Not mentioned",
-    "posted_date": "2026-11-15",
-    "apply_url": "https://orange.jobs/job/TMT-7781492"
+    "posted_date": "2026-11-16",
+    "apply_url": "https://orange.jobs/gb/en/job/TMT-7781492"
   },
   {
     "title": "Stagiaire Ingénieur DevSecOps F/H",
@@ -46,8 +266,28 @@
     "country": "FR",
     "remote": "No",
     "visa": "Not mentioned",
-    "posted_date": "2026-11-14",
-    "apply_url": "https://orange.jobs/job/IOS-2026-2794"
+    "posted_date": "2026-11-15",
+    "apply_url": "https://orange.jobs/gb/en/job/IOS-2026-2794"
+  },
+  {
+    "title": "Member of Technical Staff - Infrastructure Security",
+    "company": "Black Forest Labs",
+    "location": "Remote",
+    "country": "Not specified",
+    "remote": "Yes",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-15",
+    "apply_url": "https://jobs.ashbyhq.com/black-forest-labs/a7e73f45-97d8-48c9-b97e-311711845321/application"
+  },
+  {
+    "title": "Cybersecurity Engineer - Engineering practice",
+    "company": "Bouygues",
+    "location": "Romania",
+    "country": "Not specified",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-15",
+    "apply_url": "https://joining.bouygues.com/global/en/job/37172"
   },
   {
     "title": "(Senior) Consultant Cloud Security (w/m/d)",
@@ -107,7 +347,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-14",
-    "apply_url": "https://careersatricoh.com/job/RE02691"
+    "apply_url": "https://careersatricoh.com/gb/en/job/RE02691"
   },
   {
     "title": "Senior Application Security Engineer (AI)",
@@ -210,6 +450,26 @@
     "apply_url": "https://werkenbijdawn.tech/o/security-engineer/c/new"
   },
   {
+    "title": "IT Security Engineer / Informācijas drošības inženieris/-e | SEB, Riga",
+    "company": "SEB",
+    "location": "Rīga",
+    "country": "LV",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-13",
+    "apply_url": "https://jobs.eu.lever.co/seb/54731c1c-32e6-4152-a0a2-b3d3edb83556/apply"
+  },
+  {
+    "title": "IT Security Engineer (Privileged Access Management) | SEB, Vilnius",
+    "company": "SEB",
+    "location": "Vilnius",
+    "country": "LT",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-13",
+    "apply_url": "https://jobs.eu.lever.co/seb/2b8a6db9-aebe-4a7f-976c-7e2be1a6e4d3/apply"
+  },
+  {
     "title": "Senior Web Security Engineer, Browser Platform",
     "company": "DuckDuckGo",
     "location": "Us, France",
@@ -270,6 +530,16 @@
     "apply_url": "https://mmm-gmbh.softgarden.io/job/68727353/Netzwerk-Security-Engineer-m-w-d-/"
   },
   {
+    "title": "Application Security Engineer",
+    "company": "Tipalti",
+    "location": "London, England, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-13",
+    "apply_url": "https://tipalti.com/jobs/?gh_jid=6261002004"
+  },
+  {
     "title": "Security Engineer *EU/UK remote* (m/f/d)",
     "company": "Pliant",
     "location": "Remote (European Union)",
@@ -297,7 +567,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-13",
-    "apply_url": "https://joining.bouygues.com/job/31210"
+    "apply_url": "https://joining.bouygues.com/global/en/job/31210"
   },
   {
     "title": "Senior Security Engineering Manager",
@@ -400,14 +670,14 @@
     "apply_url": "https://epicgames.com/careers/jobs/6258494004?gh_jid=6258494004"
   },
   {
-    "title": "Information Systems Security Engineer (ISSE)",
-    "company": "AnaVation",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
+    "title": "IT Security Engineer (Privileged Access Management) | SEB, Tallinn",
+    "company": "SEB",
+    "location": "Tallinn",
+    "country": "EE",
+    "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
-    "apply_url": "https://jobs.lever.co/anavationllc/0d1c8c40-7be7-4f9c-8251-c7b73ca77a63/apply"
+    "apply_url": "https://jobs.eu.lever.co/seb/baf487ef-8773-48a1-b777-720edfe01fd8/apply"
   },
   {
     "title": "Professional DevSecOps Engineer (m/w/d)",
@@ -437,7 +707,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
-    "apply_url": "https://careers.dhl.com/job/AV-391568"
+    "apply_url": "https://careers.dhl.com/amer/en/job/AV-391568"
   },
   {
     "title": "Principal Security Researcher",
@@ -500,21 +770,21 @@
     "apply_url": "https://job-boards.greenhouse.io/iovancebiotherapeutics/jobs/5475913008"
   },
   {
-    "title": "Senior Enterprise Cybersecurity Architect",
-    "company": "Justera Group",
-    "location": "Solna, Sweden",
-    "country": "SE",
-    "remote": "No",
+    "title": "DevSecOps Engineer",
+    "company": "JustMarkets",
+    "location": "Europe",
+    "country": "Not specified",
+    "remote": "Yes",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
-    "apply_url": "https://justergroupab.teamtailor.com/jobs/8710277-senior-enterprise-cybersecurity-architect"
+    "apply_url": "https://job-boards.eu.greenhouse.io/justmarkets/jobs/5033123101"
   },
   {
     "title": "DevSecOps Engineer",
     "company": "Bluetree Group",
     "location": "Rotherham, GB",
     "country": "GB",
-    "remote": "Yes",
+    "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
     "apply_url": "https://bluetree-group.breezy.hr/p/9376dd08a19e01-devsecops-engineer"
@@ -550,16 +820,6 @@
     "apply_url": "https://careers-lmi.icims.com/jobs/14869/cybersecurity-engineer---clearance-required/job?in_iframe=1"
   },
   {
-    "title": "Cyber Security Engineer till det medarbetarägda konsultbolaget!",
-    "company": "TechSeed",
-    "location": "Göteborg, Sweden",
-    "country": "SE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-12",
-    "apply_url": "https://techseed.teamtailor.com/jobs/8707792-cyber-security-engineer-till-det-medarbetaragda-konsultbolaget"
-  },
-  {
     "title": "DevSecOps Engineer confirmé (F/H)",
     "company": "Thales Group",
     "location": "La Ciotat, Bouches-du-Rhone, France",
@@ -567,7 +827,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
-    "apply_url": "https://careers.thalesgroup.com/job/R0347819"
+    "apply_url": "https://careers.thalesgroup.com/global/en/job/R0347819"
   },
   {
     "title": "Security Engineer – Adjacencies & M&A",
@@ -577,7 +837,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-12",
-    "apply_url": "https://jobs.ebayinc.com/job/R0077189"
+    "apply_url": "https://jobs.ebayinc.com/us/en/job/R0077189"
   },
   {
     "title": "Security Engineer, Vulnerability Management and Remediation Operations",
@@ -592,7 +852,7 @@
   {
     "title": "Principal Security Researcher",
     "company": "Microsoft",
-    "location": "London, England, GB",
+    "location": "London, England, GB; Cheltenham, England, GB",
     "country": "GB",
     "remote": "No",
     "visa": "Not mentioned",
@@ -610,16 +870,6 @@
     "apply_url": "https://microsoft.eightfold.ai/careers/job/1970393557070382"
   },
   {
-    "title": "IAM Security Engineer",
-    "company": "Luminor Group",
-    "location": "Vilnius, Lithuania",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://luminorbank.teamtailor.com/jobs/8705766-iam-security-engineer"
-  },
-  {
     "title": "DevSecOps Engineer (all genders) 100% Homeoffice",
     "company": "fino data services GmbH",
     "location": "Berlin, Germany",
@@ -628,16 +878,6 @@
     "visa": "Not mentioned",
     "posted_date": "2026-11-11",
     "apply_url": "https://join.com/companies/fino2/jobs/16939876-devsecops-engineer-all-genders-100-homeoffice"
-  },
-  {
-    "title": "IAM Security Engineer",
-    "company": "Luminor Group",
-    "location": "Rīga, Latvia",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://luminorbank.teamtailor.com/jobs/8705740-iam-security-engineer"
   },
   {
     "title": "Senior Security Researcher - Vulnerability Research & Mitigations",
@@ -680,26 +920,6 @@
     "apply_url": "https://jobs.ashbyhq.com/camunda/54b6e8a4-cfce-44c8-aa18-c5ed709e1769/application"
   },
   {
-    "title": "IT Security Engineer",
-    "company": "Mintos",
-    "location": "Rīga, Latvia",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://mintos.teamtailor.com/jobs/8705292-it-security-engineer"
-  },
-  {
-    "title": "IAM Security Engineer",
-    "company": "Luminor Group",
-    "location": "Tallinn, Estonia",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://luminorbank.teamtailor.com/jobs/8705035-iam-security-engineer"
-  },
-  {
     "title": "Security Engineer",
     "company": "bunq",
     "location": "Amsterdam, Noord-Holland, Netherlands",
@@ -730,10 +950,30 @@
     "apply_url": "https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000161062589-infrastructure-security-engineer-m-w-d-?oga=true"
   },
   {
+    "title": "Executive Alarms: Fire and Security Engineer - Oxfordshire",
+    "company": "Obsequio Group Limited",
+    "location": "Witney, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-11",
+    "apply_url": "https://ats.rippling.com/obsequio-group/jobs/1edf84cf-4bb4-4415-a570-c5997f786999"
+  },
+  {
+    "title": "Senior Product Security Engineer",
+    "company": "Tipalti",
+    "location": "London, England, United Kingdom",
+    "country": "GB",
+    "remote": "No",
+    "visa": "Not mentioned",
+    "posted_date": "2026-11-11",
+    "apply_url": "https://tipalti.com/jobs/?gh_jid=6251369004"
+  },
+  {
     "title": "Security Engineer",
     "company": "Jobgether",
     "location": "UK",
-    "country": "Not specified",
+    "country": "GB",
     "remote": "Yes",
     "visa": "Not mentioned",
     "posted_date": "2026-11-11",
@@ -823,131 +1063,11 @@
     "title": "Security Engineer",
     "company": "Jobgether",
     "location": "Romania",
-    "country": "Not specified",
+    "country": "RO",
     "remote": "Yes",
     "visa": "Not mentioned",
     "posted_date": "2026-11-11",
     "apply_url": "https://jobs.lever.co/jobgether/34245684-5d01-481f-a1c1-1906f349ab54/apply"
-  },
-  {
-    "title": "AI Security Engineer",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/60def69d-14bc-44e9-af57-2f87fb3a827e/application"
-  },
-  {
-    "title": "Application Security Engineer AppSec",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/b25dfd2e-b875-4a5a-8c33-77e522cb0d2f/application"
-  },
-  {
-    "title": "Cloud Infrastructure Security Engineer",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf/application"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/543e1620-c9d5-453b-8103-2ddc17e93bc7/application"
-  },
-  {
-    "title": "Data Privacy Security Engineer",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/4e7b3e1f-4f8a-49f5-b89a-5bc70ed7576b/application"
-  },
-  {
-    "title": "Security Architect",
-    "company": "Bjak",
-    "location": "Global",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/709d9e9c-cc09-4f6f-9339-05a288bf5794/application"
-  },
-  {
-    "title": "AI Security Engineer",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/3580b965-4ac0-471e-8378-326a11484022/application"
-  },
-  {
-    "title": "Security Architect",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/e43812db-42ae-41a8-b4a3-0785398da90f/application"
-  },
-  {
-    "title": "Application Security Engineer AppSec",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/6aefcae8-b4ec-40a2-a32b-eba2828632d0/application"
-  },
-  {
-    "title": "Cloud Infrastructure Security Engineer",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/1b83ec79-e65d-4cee-84fe-b5092007ad33/application"
-  },
-  {
-    "title": "DevSecOps Engineer",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/b51045e5-f601-459f-8f84-61a7884556c4/application"
-  },
-  {
-    "title": "Data Privacy Security Engineer",
-    "company": "Bjak",
-    "location": "United Kingdom",
-    "country": "GB",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.ashbyhq.com/bjakcareer/005df17b-ba2d-48f1-9728-c9a5cce7986c/application"
   },
   {
     "title": "Offensive Security Engineer (Pentesting & DevSecOps)",
@@ -997,7 +1117,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.msd.com/job/R419147"
+    "apply_url": "https://jobs.msd.com/gb/en/job/R419147"
   },
   {
     "title": "Senior Security Architect",
@@ -1007,7 +1127,7 @@
     "remote": "No",
     "visa": "Not mentioned",
     "posted_date": "2026-11-11",
-    "apply_url": "https://jobs.pwc.co.uk/job/695896WD"
+    "apply_url": "https://jobs.pwc.co.uk/uk/en/job/695896WD"
   },
   {
     "title": "Senior Security Engineer, Threat Detection & Incident Response",
@@ -1128,265 +1248,5 @@
     "visa": "Not mentioned",
     "posted_date": "2026-11-10",
     "apply_url": "https://jobs.eos-karriere.de/jobs/63693639/Senior-Cyber-Security-Architect-m-f-d-/"
-  },
-  {
-    "title": "System Engineer / DevSecOps – Senior",
-    "company": "SOFTSWISS",
-    "location": "Poznań, Poland",
-    "country": "PL",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://softswiss.teamtailor.com/jobs/8697780-system-engineer-devsecops-senior"
-  },
-  {
-    "title": "Senior Security Architect (m/f/d)",
-    "company": "Allianz",
-    "location": "Bucharest, Bucuresti, Romania",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://careers.allianz.com/job/99409"
-  },
-  {
-    "title": "Senior Cybersecurity Engineer",
-    "company": "NTT DATA",
-    "location": "Mamer, Luxembourg",
-    "country": "LU",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/senior-cybersecurity-engineer_capellen"
-  },
-  {
-    "title": "Sr Information Security Engineer",
-    "company": "Planet Home Lending",
-    "location": "Not specified",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://jobs.dayforcehcm.com/en-US/planetfg/CANDIDATEPORTAL/jobs/3647/apply"
-  },
-  {
-    "title": "Senior Security Engineer (Spain Only)",
-    "company": "technosylva",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://technosylva.bamboohr.com/careers/237"
-  },
-  {
-    "title": "Cybersecurity Engineer -  Monitoring & Incident Response",
-    "company": "Roche",
-    "location": "Madrid, Spain",
-    "country": "ES",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://careers.roche.com/job/202610-125628"
-  },
-  {
-    "title": "Senior Cyber Security Engineer",
-    "company": "ABB",
-    "location": "Kokstad, Not Location Specific, Norway",
-    "country": "NO",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://careers.abb/job/JR00049626"
-  },
-  {
-    "title": "Senior Cybersecurity Engineer",
-    "company": "HPE",
-    "location": "Kutna Hora, Czechia",
-    "country": "Not specified",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-10",
-    "apply_url": "https://careers.hpe.com/job/1210753"
-  },
-  {
-    "title": "Staff Application Security Engineer",
-    "company": "BambooHR",
-    "location": "Utah | Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://job-boards.greenhouse.io/bamboohr17/jobs/6211383004"
-  },
-  {
-    "title": "Information Systems Security Engineer",
-    "company": "Second Front Systems",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/Second-Front-Systems/3d0bc8af-7cba-4aeb-87b8-b907728eb2e3/application"
-  },
-  {
-    "title": "Security Engineer",
-    "company": "Agile Defense",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.lever.co/agile-defense/65727064-d456-4087-a5bd-9a0a5cc46de1/apply"
-  },
-  {
-    "title": "Security Engineer (Remote - Poland)",
-    "company": "EverAI",
-    "location": "Poland",
-    "country": "PL",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/07c70929-ba2a-40ce-97d5-16d69e207ca7/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Hungary)",
-    "company": "EverAI",
-    "location": "Hungary",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/4290bc40-da8a-44b0-8668-6b61b8591200/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Spain)",
-    "company": "EverAI",
-    "location": "Spain",
-    "country": "ES",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/695262b9-292e-4f7c-aefd-251eadde7079/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Germany)",
-    "company": "EverAI",
-    "location": "Germany",
-    "country": "DE",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/0b0b25bc-0dd8-42a8-b04d-9630ba8018c2/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Austria)",
-    "company": "EverAI",
-    "location": "Austria",
-    "country": "AT",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/56629e44-4f68-46b2-82ed-dee9c9787e18/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Croatia)",
-    "company": "EverAI",
-    "location": "Croatia",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/fdcf7797-ba19-4898-bc5f-f4b414015d9c/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Netherlands)",
-    "company": "EverAI",
-    "location": "Netherlands",
-    "country": "NL",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/4fb28d13-136e-4878-9397-927f38cae0d5/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Denmark)",
-    "company": "EverAI",
-    "location": "Denmark",
-    "country": "DK",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/f5d5c848-cb0c-450c-a699-3ef563792222/application"
-  },
-  {
-    "title": "Security Engineer (Remote - Europe)",
-    "company": "EverAI",
-    "location": "Europe",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.ashbyhq.com/everai/e6c68835-6aa4-46c8-920e-c94c681d5549/application"
-  },
-  {
-    "title": "Senior Technical Data Security Architect- Remote (Anywhere in the U.S.)",
-    "company": "GuidePoint Security",
-    "location": "Remote",
-    "country": "Not specified",
-    "remote": "Yes",
-    "visa": "No",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6252790004?gh_jid=6252790004"
-  },
-  {
-    "title": "Lead Security Engineer",
-    "company": "Encord",
-    "location": "London, United Kingdom",
-    "country": "GB",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://www.welcometothejungle.com/en/companies/wH27Gh/jobs/lead-security-engineer_london_45xqhqz3"
-  },
-  {
-    "title": "DevSecOps Engineer (m/w/d) BiPRO",
-    "company": "R+V Allgemeine Versicherung AG",
-    "location": "Wiesbaden, HE, de",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000160647605-devsecops-engineer-m-w-d-bipro?oga=true"
-  },
-  {
-    "title": "Senior DevSecOps Engineer (all genders)",
-    "company": "ABOUT YOU SE & Co. KG",
-    "location": "Hamburg or Berlin, de",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000160648518-senior-devsecops-engineer-all-genders-?oga=true"
-  },
-  {
-    "title": "Infrastructure Security Engineer (m/w/d)",
-    "company": "Thalia Bücher GmbH",
-    "location": "Hagen, NRW, de",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000160631444-infrastructure-security-engineer-m-w-d-?oga=true"
-  },
-  {
-    "title": "Infrastructure Security Engineer (m/w/d)",
-    "company": "Thalia Bücher GmbH",
-    "location": "Münster, NRW, de",
-    "country": "DE",
-    "remote": "No",
-    "visa": "Not mentioned",
-    "posted_date": "2026-11-09",
-    "apply_url": "https://jobs.smartrecruiters.com/ThaliaBcherGmbH1/744000160632388-infrastructure-security-engineer-m-w-d-?oga=true"
   }
 ]
